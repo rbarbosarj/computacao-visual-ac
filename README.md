@@ -1,3 +1,5 @@
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbarbosarj/computacao-visual-ac/blob/main/notebooks/Computacao_Visual_Final.ipynb)
+
 # Atividade – Computação Visual
 
 Este notebook apresenta as principais áreas da Computação Visual, combinando explicações curtas com exemplos práticos em código. O objetivo é mostrar, de forma clara e organizada, como cada área atua em problemas distintos: criação, transformação, interpretação e visualização de informações visuais.
@@ -47,5 +49,3 @@ A Visualização Computacional transforma dados abstratos em representações gr
 ## Conclusão
 
 Cada área da Computação Visual atua em um estágio distinto: a **Síntese** cria imagens, o **Processamento** melhora e transforma, a **Visão** interpreta e reconhece padrões, e a **Visualização** traduz dados em representações gráficas compreensíveis. Com exemplos simples e objetivos, este material demonstra os conceitos fundamentais de forma clara, unindo teoria e prática em um formato adequado para avaliação acadêmica e apresentação no GitHub.
-
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/notebooks/Computacao_Visual_Final.ipynb)
