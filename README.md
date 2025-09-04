@@ -1,4 +1,4 @@
-https://colab.research.google.com/github/rbarbosarj/computacao-visual-ac/blob/main/Computacao_Visual_Final.ipynb
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbarbosarj/computacao-visual-ac/blob/main/Computacao_Visual_Final.ipynb)
 
 # Atividade – Computação Visual
 
